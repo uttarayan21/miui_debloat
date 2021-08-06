@@ -2,24 +2,24 @@
 
 echo Xiaomi MIUI Debloater
 
-# echo Google Drive
-# adb uninstall --user 0 com.google.android.apps.docs
-# echo Google Maps
-# adb uninstall --user 0 com.google.android.apps.maps
-# echo Google Photos
-# adb uninstall --user 0 com.google.android.apps.photos
-# echo Google DUO
-# adb uninstall --user 0 com.google.android.apps.tachyon
-# echo Google App
-# adb uninstall --user 0 com.google.android.googlequicksearchbox
+echo Google Drive
+adb uninstall --user 0 com.google.android.apps.docs
+echo Google Maps
+adb uninstall --user 0 com.google.android.apps.maps
+echo Google Photos
+adb uninstall --user 0 com.google.android.apps.photos
+echo Google DUO
+adb uninstall --user 0 com.google.android.apps.tachyon
+echo Google App
+adb uninstall --user 0 com.google.android.googlequicksearchbox
 echo Google Music
 adb uninstall --user 0 com.google.android.music
 echo Google Movies
 adb uninstall --user 0 com.google.android.videos
 echo Chrome
 adb uninstall --user 0 com.android.chrome
-# echo Youtube
-# adb uninstall --user 0 com.google.android.youtube
+echo Youtube
+adb uninstall --user 0 com.google.android.youtube
 echo MIUI Forum
 adb uninstall com.miui.enbbs
 echo Joom
